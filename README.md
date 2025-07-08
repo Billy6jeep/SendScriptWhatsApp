@@ -21,3 +21,28 @@ No WhatsApp Web abra o console do Browser
 Cole o código no console e aperte Enter
 
 Pronto
+## ⚠️ Importante: ¡Úsalo con responsabilidad!
+
+Estos scripts están pensados como una broma, pero **debes ser consciente de los riesgos** antes de usarlos:
+
+- ❌ **¡El spam puede hacer que te bloqueen la cuenta!**  
+  WhatsApp detecta comportamientos automáticos. Enviar grandes volúmenes de mensajes (como guiones de películas completos) puede provocar **suspensiones o bloqueos permanentes**.
+
+- 😡 **Puede ser muy molesto para otros.**  
+  No lo uses en grupos, con desconocidos o sin permiso. Este tipo de spam satura los chats y suele ser mal recibido.
+
+- ✅ **Úsalo solo en chats privados con amigos cercanos — y solo con su consentimiento.**
+
+Esto es una broma, **no una herramienta de spam**. Sé inteligente y respeta a los demás cuando lo uses.## ⚠️ Importante: ¡Úsalo con responsabilidad!
+
+Estos scripts están pensados como una broma, pero **debes ser consciente de los riesgos** antes de usarlos:
+
+- ❌ **¡El spam puede hacer que te bloqueen la cuenta!**  
+  WhatsApp detecta comportamientos automáticos. Enviar grandes volúmenes de mensajes (como guiones de películas completos) puede provocar **suspensiones o bloqueos permanentes**.
+
+- 😡 **Puede ser muy molesto para otros.**  
+  No lo uses en grupos, con desconocidos o sin permiso. Este tipo de spam satura los chats y suele ser mal recibido.
+
+- ✅ **Úsalo solo en chats privados con amigos cercanos — y solo con su consentimiento.**
+
+Esto es una broma, **no una herramienta de spam**. Sé inteligente y respeta a los demás cuando lo uses.
